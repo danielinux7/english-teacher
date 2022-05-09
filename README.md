@@ -10,3 +10,4 @@ Resources and methods for English teachers:
 - https://www.tefl.org/
 - https://www.tesol.org/
 - https://learnenglish.britishcouncil.org/
+- https://textinspector.com/
