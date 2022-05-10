@@ -12,4 +12,5 @@ Resources and methods for English teachers:
 - https://learnenglish.britishcouncil.org/
 - https://textinspector.com/
 - https://langeek.co/
+- https://www.ef.com/wwen/english-resources/english-vocabulary/
 - Remove site cookies: chrome://settings/siteData
