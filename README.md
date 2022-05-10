@@ -11,4 +11,5 @@ Resources and methods for English teachers:
 - https://www.tesol.org/
 - https://learnenglish.britishcouncil.org/
 - https://textinspector.com/
+- https://langeek.co/
 - Remove site cookies: chrome://settings/siteData
